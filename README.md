@@ -24,7 +24,6 @@
 
 ## 🔗 Quick Navigation
 
-* [👨‍💻 Technologies & Tools I Use](#-technologies--tools-i-use)
 * [🚀 Areas I’m Actively Exploring](#-areas-im-actively-exploring)
 * [🏗️ Projects I Care About](#-projects-i-care-about)
 
