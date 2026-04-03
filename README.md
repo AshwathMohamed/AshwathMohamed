@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-* 🏫 **ECE undergraduate @ Chennai Institute of Technology (CGPA: 9.27)**
+* 🏫 **ECE undergraduate @ Chennai Institute of Technology**
 * ⚛️ Interested in **electronics, RF systems, and intelligent hardware design**
 * 📡 Passionate about **antennas, signal processing, and real-world communication systems**
 * 🧠 Exploring **VLSI, embedded systems, and AI-driven cybersecurity**
