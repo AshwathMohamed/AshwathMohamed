@@ -14,7 +14,7 @@
 ## 🛠️ What I’m Doing Right Now
 
 * 📚 Strengthening **core ECE fundamentals**
-* </> Working with **Python, C, Verilog, SystemVerilog**
+* 💻 Working with **Python, C, Verilog, SystemVerilog**
 * 📡 Exploring **RF & antenna systems practically**
 * 🧠 Building **privacy-first AI systems (Federated Learning)**
 * 🚗 Developing **AutoComm – V2V communication system**
@@ -32,34 +32,44 @@
 ## 👨‍💻 Technologies & Tools I Use
 
 <p align="left">
+
   <!-- Programming -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
   <!-- Hardware / VLSI -->
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40" height="40"/>
 
-  <!-- Web -->
+  <!-- EDA Tools -->
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Synopsys-EDA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cadence-Virtuoso-orange?style=for-the-badge"/>
+
+  <!-- Signal Processing -->
+
+  <img src="https://img.shields.io/badge/MATLAB-Toolbox-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GNU%20Octave-Scientific-blue?style=for-the-badge"/>
 
   <!-- Tools -->
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-  <!-- OS / Terminal -->
+  <!-- OS -->
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 
-  <!-- AI / Signal Processing -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
 </p>
+
+---
+
+## 🔬 Core Competency
+
+* 📡 RF Systems & Antenna Design
+* 📊 Signal Processing (MATLAB / Python)
+* ⚙️ RTL Design (Verilog, SystemVerilog)
+* 🧪 Analog & Mixed Signal Design (Cadence Virtuoso)
 
 ---
 
@@ -85,4 +95,4 @@
 ## 📫 Let’s Connect
 
 * 🤝 Open to **internships & collaborations**
-* 💬 Always ready to discuss **tech, electronics, or projects**
+* 💬 Always ready to discuss **electronics, RF systems, VLSI, and projects**
